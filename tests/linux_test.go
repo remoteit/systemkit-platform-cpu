@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	platformCPU "github.com/codemodify/systemkit-platform-cpu"
+	platformCPU "github.com/remoteit/systemkit-platform-cpu"
 )
 
 func TestCPUVariant(t *testing.T) {
