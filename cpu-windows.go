@@ -5,7 +5,7 @@ package cpu
 import (
 	"runtime"
 
-	"github.com/StackExchange/wmi"
+	"github.com/remoteit/wmi"
 )
 
 func Info() CPU {

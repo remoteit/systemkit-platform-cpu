@@ -1,7 +1,7 @@
-github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d h1:G0m3OIz70MZUWq3EgK3CesDbo8upS2Vm9/P3FtgI+Jk=
-github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
-github.com/go-ole/go-ole v1.2.5 h1:t4MGB5xEDZvXI+0rMjjsfBsD7yAgp/s9ZDkL1JndXwY=
-github.com/go-ole/go-ole v1.2.5/go.mod h1:pprOEPIfldk/42T2oK7lQ4v4JSDwmV0As9GaiUsvbm0=
+github.com/remoteit/go-ole v1.2.6 h1:pvn2rmgm9H4GFMacQPgugb7Y4Upks0wprQch23vNdMo=
+github.com/remoteit/go-ole v1.2.6/go.mod h1:tLqO960wrVuJZX58Gr3HwqDfdDrMWjaNqLOgQzOEeZw=
+github.com/remoteit/wmi v0.0.0-20210321074044-bcb636ffe8b8 h1:lgkreEdw7w66eGM99FJJ+G9PBgFB13Vw74529Zg3l+o=
+github.com/remoteit/wmi v0.0.0-20210321074044-bcb636ffe8b8/go.mod h1:NkNVGaIPgnMdjoUp6MvFhq9ySTpNyq5d1IImV80+VQY=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad h1:DN0cp81fZ3njFcrLCytUHRSUkqBjfTo4Tx9RJTWs0EY=
 golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad/go.mod h1:jdWPYTVW3xRLrWPugEBEK3UY2ZEsg3UU495nc5E+M+I=
